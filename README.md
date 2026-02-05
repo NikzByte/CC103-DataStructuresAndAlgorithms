@@ -11,7 +11,7 @@ It serves as a personal learning archive that tracks my progress through coding 
 The materials in this repository reflect hands-on laboratory tasks and programming activities that emphasize logical thinking, efficiency, and clean code design.
 
 **Student:** Onikka Mae Buela
-**Program & Year:** BS Computer Science – 1st Year  
+**Program & Year:** CS 1103 BS Computer Science 
 **Course:** CC 103 – Data Structures and Algorithms  
 
 ---
