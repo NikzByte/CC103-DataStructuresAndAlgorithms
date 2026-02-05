@@ -10,7 +10,7 @@ It serves as a personal learning archive that tracks my progress through coding 
 **CC 103** introduces fundamental data structures and algorithmic techniques essential to computer science. The materials in this repository reflect hands-on laboratory tasks and programming activities that emphasize logical thinking, efficiency, and clean code design.
 
 - **Student:** Onikka Mae Buela
-- **Program:** BS Computer Science 
+- **Program and Year:** CS 1203 BS Computer Science 
 - **Course:** CC 103 – Data Structures and Algorithms  
 
 ---
