@@ -39,6 +39,6 @@ Each folder typically contains:
 |-----|-----------|---------|
 | Practice Set 1 | Structures | Introduction to user-defined data types and structured data handling |
 
-Additional exercises and examples will be added as new topics are discussed in class.
+*please note that additional exercises and examples will be added as new topics are discussed in class.*
 
 
